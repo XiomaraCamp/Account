@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ta0ty6m55hbVosj2ZEyvFWNTw0hReIrUeZJeViv2xr3O6yaRmZZwMzKqG5ippkLPnYC7Dwbc9zYaHOm8Ni7RYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jc997\\Desktop\\Guia3\\XJSC20230917\\XJSC20230917\\XJSC20230917.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jc997\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\jc997\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jc997\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\jc997\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\jc997\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\jc997\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\jc997\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
